@@ -30,3 +30,7 @@ The project follows a typical React project structure with components organized 
 
 ## Project Link
 https://github.com/Vishal-Tiwari-11/react-todo-app.git
+
+## TODO SNAP
+https://github.com/Vishal-Tiwari-11/react-todo-app/assets/140997042/4ce9be62-b333-4f9d-9a1d-e9d19d80bd1e
+
